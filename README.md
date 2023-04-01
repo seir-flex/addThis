@@ -30,8 +30,3 @@ Possible interview questions that you could ask?
 - Will there ever be a point where the user could provide a non numerical character? 
 - Is it possible the number could be zero? 
 
-### Possible Ways of Solving
-
-- Nested Loops
-- Unnested Loops 
-- Single loop with Recursion
