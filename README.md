@@ -28,13 +28,20 @@ Given a non-negative integer num, repeatedly add all its digits until the result
 
 ## Ways of Solving
 
-### .split() + loop + parseInt/Number() + recursion
+### Nested Loops
+
+```javascript
+
+```
+### Unnested Loops 
+
 
 ```javascript
 
 ```
 
-### .split() + loop + parseInt/Number() + .reduce()
+### Single loop with Recursion
+
 
 ```javascript
 
